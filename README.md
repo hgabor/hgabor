@@ -2,7 +2,7 @@
 
 ### NestJS Keretalkalmazás:
 
-https://github.com/hgabor/nestjs-keret-2024
+https://github.com/hgabor/nestjs-keret-2025
 
 ### Programozási segédletek:
 
