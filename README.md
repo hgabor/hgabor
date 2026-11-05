@@ -2,9 +2,6 @@
 
 ### NestJS Keretalkalmazás:
 
-2025/26 tanéves változat a 2026 őszi vizsgához:
-* https://github.com/hgabor/nestjs-keret-2025
-
 2026/27 tanéves változat:
 * https://github.com/hgabor/nestjs-keret-2026
 
